@@ -8,12 +8,6 @@ Actualmente cursando el primer año de **Administración de Sistemas Informátic
 
 ---
 
-### 🏆 Mis Logros y Trofeos
-Aquí puedes ver mi progresión y certificaciones obtenidas de forma visual:
-[![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=Joanmofu&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 🚀 Mi Enfoque Técnico
 - **Ciberseguridad:** Gestión de riesgos, seguridad en redes y análisis de vulnerabilidades.
 - **Sistemas:** Administración de servidores, terminal Bash/Shell y SQL para auditoría.
