@@ -34,14 +34,14 @@ Actualmente cursando el primer año de **Administración de Sistemas Informátic
 
 ### 📊 Estadísticas
 <p align="left">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&border_radius=10" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Joanmofu&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joanmofu&layout=compact&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
 ### 📫 Conecta conmigo
 <p align="left">
-<a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joan Fuentes Moreno" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joan-moreno-3b2675302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joan Fuentes Moreno" height="30" width="40" /></a>
 <a href="mailto:joanlaura82@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="joanlaura82@gmail.com" height="30" width="40" /></a>
 </p>
