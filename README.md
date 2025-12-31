@@ -4,50 +4,49 @@
 </p>
 
 ### 🛡️ Aspirante a Analista de Ciberseguridad | Estudiante de ASIR
-Actualmente cursando el primer año de **Administración de Sistemas Informáticos en Red**. Me dedico a fortalecer mis habilidades en la protección de activos, gestión de amenazas y administración de sistemas Linux.
+Actualmente cursando el primer año de **Administración de Sistemas Informáticos en Red**. Me especializo en la protección de activos, gestión de amenazas y administración avanzada de sistemas Linux.
+
+---
+
+### 🏆 Mis Logros y Trofeos
+Aquí puedes ver mi progresión y certificaciones obtenidas de forma visual:
+[![GitHub Trofeos](https://github-profile-trophy.vercel.app/?username=Joanmofu&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🚀 Mi Enfoque Técnico
-- [cite_start]**Ciberseguridad:** Gestión de riesgos, seguridad en redes y análisis de vulnerabilidades[cite: 87, 154].
-- [cite_start]**Sistemas:** Administración de servidores, terminal Bash/Shell y SQL para auditoría[cite: 64, 130].
-- [cite_start]**Innovación:** Integración de Inteligencia Artificial en flujos de trabajo técnicos[cite: 139].
+- **Ciberseguridad:** Gestión de riesgos, seguridad en redes y análisis de vulnerabilidades.
+- **Sistemas:** Administración de servidores, terminal Bash/Shell y SQL para auditoría.
+- **Innovación:** Integración de Inteligencia Artificial en flujos de trabajo técnicos.
 
 ### 🛠️ Stack Tecnológico
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  <a href="https://cybersecurity.google/" target="_blank"><img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hack-the-box&logoColor=white" /></a>
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![CyberSecurity](https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)
 
 ### 📜 Certificaciones Profesionales
 | Certificado | Emisor | Fecha |
 | :--- | :--- | :--- |
-| **Técnico en Ciberseguridad (60h)** | [cite_start]DarFe Learning Consulting [cite: 89] | [cite_start]Nov 2025 [cite: 90] |
-| **Google Cybersecurity Certificate** | [cite_start]Google / Coursera [cite: 7] | [cite_start]Dic 2025 [cite: 3] |
-| **Linux and SQL for Cybersecurity** | [cite_start]Google [cite: 60] | [cite_start]Dic 2025 [cite: 61] |
-| **Bash/Shell Scripting** | [cite_start]MoureDev [cite: 132, 133] | [cite_start]Dic 2025 [cite: 134] |
-| **Desarrollo con IA** | [cite_start]BIG school [cite: 146] | [cite_start]Oct 2025  |
-| **Oxford Test of English (B1)** | [cite_start]University of Oxford [cite: 105] | [cite_start]Jul 2024  |
+| **Técnico en Ciberseguridad (60h)** | DarFe Learning | Nov 2025 |
+| **Google Cybersecurity Certificate** | Google / Coursera | Dic 2025 |
+| **Linux and SQL for Cybersecurity** | Google | Dic 2025 |
+| **Bash/Shell Scripting** | MoureDev | Dic 2025 |
+| **Desarrollo con IA** | BIG school | Oct 2025 |
+| **Oxford Test of English (B1)** | University of Oxford | Jul 2024 |
 
-### 📊 Estadísticas de GitHub
-<p align="left">
-<img width="490" src="https://github-readme-stats.vercel.app/api?username=Joanmofu&show_icons=true&theme=tokyonight&border_radius=10" />
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joanmofu&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
+---
+
+### 📊 Estadísticas de Actividad
+![Estadísticas de Joan](https://github-readme-stats.vercel.app/api?username=Joanmofu&show_icons=true&theme=tokyonight&border_radius=10)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Joanmofu&layout=compact&theme=tokyonight&border_radius=10)
 
 ---
 
 ### 📫 Conecta conmigo
-<p align="left">
-<a href="https://www.linkedin.com/in/joan-moreno-3b2675302/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:joanlaura82@gmail.com" target="blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-moreno-3b2675302/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joanlaura82@gmail.com)
 
 ---
 *“La seguridad es un proceso, no un producto.”*
